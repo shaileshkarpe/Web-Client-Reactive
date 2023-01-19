@@ -1,0 +1,4 @@
+com\reactiveresttemplate\reactiveresttemplate\ReactiveRestTemplateApplication.class
+com\reactiveresttemplate\reactiveresttemplate\controller\BookController.class
+com\reactiveresttemplate\reactiveresttemplate\service\BookService.class
+com\reactiveresttemplate\reactiveresttemplate\model\Book.class
